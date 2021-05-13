@@ -1,0 +1,12 @@
+.bfi-mod-bookingforsearch.ui-tabs .bfi-tabs.ui-tabs-nav .ui-state-active a, .bfi-mod-bookingforsearch.ui-tabs .bfi-tabs.ui-tabs-nav .ui-state-active a:link, .bfi-mod-bookingforsearch.ui-tabs .bfi-tabs.ui-tabs-nav .ui-state-active a:visited,
+.bfi-area-detail-tabs.ui-tabs .bfi-tabs.ui-tabs-nav .ui-state-active a,
+.bfi-area-detail-tabs.ui-tabs .bfi-tabs.ui-tabs-nav .ui-state-active a:link,
+.bfi-area-detail-tabs.ui-tabs .bfi-tabs.ui-tabs-nav .ui-state-active a:visited {
+  color: #0895FF !important;
+}
+.bfi-mod-bookingforsearch .ui-state-default a {
+  color: #616161 !important;
+}
+#g-navigation {
+    background: #1DABFC !important;
+}

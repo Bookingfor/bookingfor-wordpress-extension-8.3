@@ -1,0 +1,355 @@
+.bfi-fields {
+  line-height: normal  !important;;
+}
+.bfi-datepicker,
+.bfi-datepicker:hover{
+padding:0;
+}
+.bfi-mod-bookingforsearch div.selector,.bfi-mod-bookingforsearch div.selector select{
+  line-height: normal  !important;
+	-webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+  height: 35px  !important;
+}
+.bfi-mod-bookingforsearch div.selector span{
+  line-height: 32px  !important;
+  height: 35px  !important;
+}
+.bfi-table div.selector, .bfi-table div.selector select{
+  line-height: normal  !important;
+	-webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    border-radius: 0px;
+  height: 26px  !important;
+}
+.bfi-table div.selector span{
+    line-height: 22px !important;
+    height: 22px !important;
+}
+.bfi-datepicker button, .bfi-datepicker button:hover{
+border-radius:none;
+-moz-border-radius:none;
+-webkit-border-radius:none;
+background: none;
+padding: 2px 2px 0 2px !important;
+  line-height: normal  !important;;
+}
+.bfi-datepicker button div {color: #616161;}
+.bfi-buttoncalendar button, .bfi-buttoncalendar button:hover, .bfi-buttoncalendar button:focus {
+    position: static;
+	border: #E0E0E0 1px solid;
+    background-color: #FFFFFF !important;
+    background: #FFFFFF !important;
+	color: #616161 !important;
+}
+.bfi-dialog  .ui-dialog-titlebar{
+	font-size:15px !important;
+}
+.bfi-menu-top li:before,
+.bfi-menu-small li:before{
+	display:none;
+}
+.bfi-currency-switcher, .bfi-shopping-cart-widget, .bfi-mod-bookingforlogin-popup {
+    display: block;
+	background: transparent;
+	color:#ffffff;
+	text-align: center;
+}
+ .bfi-shopping-cart-widget {
+	padding:12px 10px;
+ }
+.bfi-currency-switcher-selected{
+	color:#ffffff;
+}
+.bfi-currency-switcher-content{
+	background: transparent;
+	color:#ffffff;
+}
+.bfi-currency-switcher-content div,
+.bfi-currency-switcher-selector{
+	background-color: #5fc8c2;
+	color:#ffffff;
+}
+.bfi-filteroptions a:hover, .widget.bfi-widget_search_filters a:hover {
+    background-color: #5CC618;
+    color: #FFFFFF !important;
+}
+#bfi-calculatorForm .bfi-datepicker button div {color: #0895FF;}
+#bfi-calculatorForm .bfi-datepicker button,#bfi-calculatorForm .bfi-datepicker button:hover {text-shadow: none;}
+#bfi-calculatorForm .bfi-datepicker, #bfi-calculatorForm .bfi-showperson-text-calculator, #bfi-calculatorForm .bfi-datepicker button {
+    border: none;
+    text-decoration: underline;
+    color: #0895FF !important;
+    font-weight: 700;
+}
+.bfi-showperson select{
+	width: 100%;
+	height: 28px;
+    line-height: 28px;
+	border: 1px solid #ccc;
+    background-color: #fff;
+	max-width: 100%;
+	border-radius: 4px;
+	}
+.bfi-showperson.bfi-container select.bfi-inputmini {
+    width: 55px;
+}
+.ui-datepicker-multi-2 .ui-datepicker-prev {left: 5px;}
+.ui-datepicker-multi-2 .ui-datepicker-next {right: 5px;}
+.ui-datepicker .ui-datepicker-unselectable {background: #ffffff;}
+.bfi-list .bfi-details-container .bfi-mrcgroup img {float: left;}
+#ui-datepicker-div.bfi-calendar .ui-datepicker-title {line-height: 17px;}
+.bfi-filteroptions a span {font-weight: 400;}
+.left-sidebar .bfi-searchfilter {padding: 0; border: none;}
+.left-sidebar .bfi-mod-bookingforsearch.ui-widget-content {border: none; padding: 0;}
+.webui-popover-bfi-webuipopover {top: 60px; z-index: 99999;}
+.header .profile-nav {display: none;}
+.header .bfi-shopping-cart {margin-top: 20px;}
+.bfi-btn-delete {padding: 5px !important; height: 20px !important; line-height: 5px; background: red;}
+.breadcrumbs {display: none;}
+.bfi-list .bfi-details-container .bfi-mrcgroup {display: inline-block;}
+#bfi-merchant-tags img {display: inline-block;}
+#bfi-senior-info-calculator, .bfi_resource-calculatorForm-senior {display: none;}
+#navbookingfordetails .inner-nav li a {
+    color: #fff;
+	float:none;
+	padding: 0 0 0 41px;
+}
+.bfi-content .tab-content article{
+	padding-left:30px;
+}
+.bfi-facility-list .tags {
+    border-top: 0px solid #ccc;
+    padding: 0 0;
+    margin: 0 0 15px;
+}
+#bfi-resourcedetailsrequest input[type="checkbox"], #bfi-resourcedetailsrequest  input[type="radio"],
+.merchantdetailscontacts input[type="checkbox"], .merchantdetailscontacts input[type="radio"] {
+    box-sizing: border-box;
+    width: 13px;
+    height: 13px;
+}
+.merchantdetailscontacts input[type="search"], 
+.merchantdetailscontacts input[type="email"], 
+.merchantdetailscontacts input[type="text"], 
+.merchantdetailscontacts input[type="number"], 
+.merchantdetailscontacts input[type="password"],
+.merchantdetailscontacts input[type="tel"], 
+.merchantdetailscontacts input[type="url"], 
+.merchantdetailscontacts input[type="date"], 
+.merchantdetailscontacts select, 
+.merchantdetailscontacts textarea {
+	box-sizing: border-box;
+    line-height: 28px;
+    border: #E0E0E0 1px solid;
+    background: none;
+    background-color: #fff;
+	webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+    padding: 0 4px 0 4px;
+    margin-bottom: 0;
+    min-width: 45px;
+    width: 100%;
+    height: 30px;
+    cursor: pointer;
+}
+.bfi-description-data li {
+	position: inside;
+	padding: 0;
+} 
+.bfi-description-data li:before {
+    content: none;
+} 
+
+#navbookingfordetails .inner-nav{
+    width: 100%;
+}
+#navbookingfordetails .inner-nav ul{
+    background: none;
+    padding: 0;
+    border: 0;
+	border-radius: 0;
+    color: #616161;
+}
+#navbookingfordetails .inner-nav li,
+#navbookingfordetails .inner-nav li.active,
+#navbookingfordetails .inner-nav li.active:hover{
+	background-image: none;
+	background: linear-gradient(to bottom,rgba(193,182,174,1) 0%,rgba(186,172,163,1) 100%);
+	border: 0;
+	border-radius: 0;
+	border-right: 2px solid white;
+	display: table-cell;
+	width: 1%;
+	float: none;
+	margin: 0 0 1px;
+}
+#navbookingfordetails .inner-nav li:hover,
+#navbookingfordetails .inner-nav li.ui-tabs-active,
+#navbookingfordetails .inner-nav li.current-menu-item,
+#navbookingfordetails .inner-nav li.current-menu-item:hover{
+	width: 1%;
+    background: #113C9D;
+}
+#navbookingfordetails .inner-nav li.active a:after,
+#navbookingfordetails .inner-nav li.current-menu-item a:after {
+    content: none;
+}
+
+.bfi-content .tab-content{
+    width: 100%;
+}
+@media screen and (max-width: 600px) {
+	#navbookingfordetails .inner-nav,
+	#navbookingfordetails .inner-nav li,
+	#navbookingfordetails .inner-nav li.active, 
+	#navbookingfordetails .inner-nav li.active:hover,
+	.bfi-content .tab-content
+	{
+		display: block;
+		width:100%;
+	}
+	#navbookingfordetails .inner-nav {margin-bottom:20px;}
+	#navbookingfordetails .inner-nav li.active a:after,
+	#navbookingfordetails .inner-nav li.active a:after {display:none;}
+}
+
+.bfi-cctitle{
+	font-weight:bold;
+}
+.bfi-payment-form label div{
+	margin-bottom:10px;
+}
+.bfi-ccimages{
+	font-size: 1.875em;
+}
+.ui-widget-content.bfi-dialog{
+z-index: 10000;
+}
+
+.home-content-sidebar .bfi-mod-bookingforsearch{
+	position: absolute;
+    top: -280px;
+    left: 0;
+    z-index: 99;
+    width: 100%;
+    display: inline-block;
+    padding: 15px 15px 10px;
+    border: 1px solid #fff;
+}
+.home-content-sidebar .com_bookingforconnector-item-col{
+	margin:10px;
+    background-color: #fff;
+}
+@media screen and (max-width: 1070px) {
+	.home-content-sidebar .bfi-mod-bookingforsearch {position:static;}
+}
+
+#navbookingfordetails.ui-tabs .bfi-tabs.ui-tabs-nav li:before,
+#navbookingfordetails.ui-tabs .bfi-tabs.ui-tabs-nav .ui-tabs .ui-tabs-nav li:before {
+    content: "";
+}
+#navbookingfordetails.ui-tabs .ui-tabs-panel{
+	display: block;
+	float: left;
+    width: 100%;
+    padding: 13px 20px 20px;
+    overflow: hidden;
+    margin: 0 0 20px;
+    background: #fff;
+    webkit-box-shadow: 0 0 2px rgba(0,0,0,0.1);
+    -moz-box-shadow: 0 0 2px rgba(0,0,0,0.1);
+    box-shadow: 0 0 2px rgba(0,0,0,0.1);
+    font-size: 13px;
+	padding-left: 30px;
+	border:0;
+	border-radius:0;
+	color: #616161;
+	box-shadow: none;
+	webkit-box-shadow: none;
+}
+#navbookingfordetails h2{
+	color:#B1A398;
+}
+.multi-bar-marker-value {
+    white-space: nowrap;
+}
+.inner-nav .bfilistresource a:before {
+	content:"\e53a";
+}
+  .bfi-form-horizontal .bfi-showperson, .bfi-form-horizontal label {
+    display: none; }
+	/*
+.bfi-form-horizontal .bfi-btn, .bfi-form-horizontal a.bfi-btn:link, .bfi-form-horizontal a.bfi-btn:visited, .bfi-form-horizontal a.bfi-btn {
+	margin-top: 0px;
+	height: 32px;
+}
+.bfi-showperson-container{
+	height: 32px;
+    line-height: 32px;
+    padding: 0 5px;
+}
+*/
+.bfi-form-horizontal .bfi_merchantcategoriesresource {
+    display: block !important;
+}
+  #ui-datepicker-div.bfi-calendar .ui-datepicker-group {
+    margin-right: 0;
+    margin-left: 0;
+  }
+.bfi-check-more-slider .slick-arrow {
+	color: transparent !important;
+	text-shadow:none;
+} 
+.bfi-check-more-slider .slick-arrow.slick-prev {
+    left: -50px;
+	z-index:99999;
+} 
+.bfi-check-more-los, .bfi-check-more-price{
+	letter-spacing: -.5px;
+}
+h4.bfi-titleform {
+	margin: 5px 0;
+	color: #0E3083;
+	padding: 0 0 15px;
+	font-family: 'Open Sans',Helvetica,Arial,sans-serif;
+	font-size: 15px;
+}
+.bfiAffixTop .tab-content:before {
+  content: "";
+  background: #fff;
+  width: 100%;
+  display: block;
+  position: fixed;
+  left: 0;
+  height: auto;
+  border-bottom: 1px solid #ccc;
+  z-index: -1;
+}
+.bfi-showperson-text{
+	/*letter-spacing: -1px;*/
+	font-family: source-sans-pro, "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size:16px;
+	color: #616161;
+}
+
+.bookingfor_carousel .slick-slide{
+	margin: 10px;
+	background-color: #fff;
+}
+.bookingfor_carousel .slick-prev {
+    left: -45px;
+}
+.bfi-mod-bookingforsearch .bfi-form-horizontal input[type="text"] {
+	width: 100% !important;
+    height: 28px !important;
+	color: #616161 !important;;
+}
+.bfi-mod-bookingforsearch .bfi-form-horizontal div.selector {
+	height: 40px !important;
+}
+.bfi-mod-bookingforsearch .bfi-form-horizontal div.selector select{
+ border-color: initial;
+ }
