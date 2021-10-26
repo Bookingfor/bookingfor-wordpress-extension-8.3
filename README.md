@@ -12,7 +12,7 @@ Demo: https://wordpress.bookingfor.com
 6. enjoy!<br />
 
 # Bookingfor engine
-Every plugin work with his specified version of Bookingfor engine+<br/>
+Every plugin work with his specified version of Bookingfor engine<br/>
 This version required Bookingfor v.8.2.x or higher
 
 # Minimum requirements
